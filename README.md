@@ -23,4 +23,5 @@ This is not officially supported by Rakuten but I have tested it and working on 
 8. Once installed, restart the iPhone
 9. Ensure you have 4G VOLTE turned ON in the carrier settings of the iPhone
 10. Using your iPhone on WiFi download the following mobile config profile - [click here](https://github.com/benjimons/RakutenMNO/raw/master/RakutenMNO.mobileconfig))
+11. Follow the onscreen instructions advising you how to install the profile
 11. You should now get service and it should be working for Calls, SMS and Internet.
